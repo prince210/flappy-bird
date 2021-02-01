@@ -11,4 +11,5 @@ flappy-bird contains flappy bird game build with pygame
 
 # Game demo
 
-<a href = "https://imgflip.com/gif/4w6gbn">
+
+https://user-images.githubusercontent.com/53873186/106428701-673bb800-648f-11eb-8969-d7065da8c303.mp4
